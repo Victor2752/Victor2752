@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there, Welcome 👋
 
- I'm a developer and design focused on building brands and creating the best disital experience for the user
- 
- --- currently coursing analysis and systems development in Fatec São Paulo and working in a Startup (Zuardina Automa).
- 
+### *I'm a developer and design focused on building brands and creating the best disital experience for the user*
+
+- 🔭 I'm currently learning Computer System Analyst in Fatec São Paulo
+- 🌱 I'm currently working on a Startup (Zuardina Automa)
+- 📫 How to reach me: victor2752@hotmail.com
+
  ### Best skills:
-  React.js
-  JavaScript
-  HTML
-  CSS
-  C#
+  React.js,
+  JavaScript,
+  HTML,
+  CSS,
+  C#,
   Figma
+  
 <!--
 **Victor2752/Victor2752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
