@@ -1,9 +1,9 @@
 ## Hi there, Welcome 👋
 
-### *I'm a developer and design focused on building brands and creating the best disital experience for the user*
+### *I'm a developer and design focused on building brands and creating the best digital experience for the user*
 
 - 🔭 I'm currently learning Computer System Analyst in Fatec São Paulo
-- 🌱 I'm currently working on a Startup (Zuardina Automa)
+- 🌱 I'm currently working on a Software House (Zuardina Automa)
 - 📫 How to reach me: victor2752@hotmail.com
 
  ### Best skills:
