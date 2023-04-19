@@ -1,7 +1,8 @@
-Eae, Meu nome é victor e atualmente estou cursando 
+Eae, para quem não me conhece eu vivo basicamente de Programação, Rap e Santos sksksk
 
 - 🔭 Cursando Analise e desenvolvimento de sistemas na Fatec São Paulo
-- 🌱 Atualmente estudando React.js
+- 🌱 Dev na SQG Tecnologia
+-  Atualmente estudando metodologias de design e Flutter
   
 <div align="center">
   <a href="https://github.com/Victor2752">
