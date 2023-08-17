@@ -1,9 +1,8 @@
 Eae, para quem não me conhece eu vivo basicamente de Programação, Rap e Santos sksksk
 
 - 🔭 Cursando Analise e desenvolvimento de sistemas na Fatec São Paulo
-- 🌱 Dev na SQG Tecnologia
--  Atualmente estudando metodologias de design e Flutter
-  
+- 🌱 Analista na SQG Tecnologia, atualmente estudando design patterns e Flutter
+
 <div align="center">
   <a href="https://github.com/Victor2752">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor2752&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
