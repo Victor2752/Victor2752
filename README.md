@@ -1,4 +1,3 @@
-
 👋 Olá! Prazer em conhecê-lo! Sou um entusiasta da Programação, apaixonado por Rap e pelo meu time, Santos! 🚀
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Fatec São Paulo, tenho experiência sólida na área de automação comercial, onde busco constantemente inovar e criar soluções que facilitem a vida das pessoas.
@@ -8,8 +7,6 @@
 🎨 Além disso, tenho um forte interesse em UI/UX e na criação de soluções que combinem forma e função de maneira harmoniosa, proporcionando experiências memoráveis aos usuários finais.
 
 🔍 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades técnicas e expandir meu conhecimento na área de desenvolvimento de software.
-
-🌱 Aberto a novas oportunidades e colaborações no campo da tecnologia e além, estou pronto para enfrentar novos desafios e contribuir para projetos empolgantes. Vamos construir algo incrível juntos!
 
 <div align="center">
   <a href="https://github.com/Victor2752">
