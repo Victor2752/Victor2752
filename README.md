@@ -1,7 +1,15 @@
-Eae, para quem não me conhece eu vivo basicamente de Programação, Rap e Santos sksksk
 
-- 🔭 Cursando Analise e desenvolvimento de sistemas na Fatec São Paulo
-- 🌱 Analista na SQG Tecnologia, atualmente estudando design patterns e Flutter
+👋 Olá! Prazer em conhecê-lo! Sou um entusiasta da Programação, apaixonado por Rap e pelo meu time, Santos! 🚀
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela Fatec São Paulo, tenho experiência sólida na área de automação comercial, onde busco constantemente inovar e criar soluções que facilitem a vida das pessoas.
+
+💼 Atualmente atuando como Analista na SQG Tecnologia, concentro meus esforços na automação comercial, aplicando meu conhecimento em UI/UX para criar experiências intuitivas e eficientes para nossos usuários.
+
+🎨 Além disso, tenho um forte interesse em UI/UX e na criação de soluções que combinem forma e função de maneira harmoniosa, proporcionando experiências memoráveis aos usuários finais.
+
+🔍 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades técnicas e expandir meu conhecimento na área de desenvolvimento de software.
+
+🌱 Aberto a novas oportunidades e colaborações no campo da tecnologia e além, estou pronto para enfrentar novos desafios e contribuir para projetos empolgantes. Vamos construir algo incrível juntos!
 
 <div align="center">
   <a href="https://github.com/Victor2752">
@@ -12,8 +20,9 @@ Eae, para quem não me conhece eu vivo basicamente de Programação, Rap e Santo
   <img align="center" alt="Vito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <img align="center" alt="Vito-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vito-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vito-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Vito-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+  <img align="center" alt="Vito-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Vito-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vito-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Vito-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zk3ASxsFuNJDzOF99s/giphy.gif">
@@ -22,10 +31,6 @@ Eae, para quem não me conhece eu vivo basicamente de Programação, Rap e Santo
  ##
 
 <div>
-  <a href="https://www.instagram.com/victor2752sfc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:victor2752@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor2752" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/victor2752/victor2752/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
